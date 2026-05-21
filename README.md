@@ -1,5 +1,3 @@
-# -SecureLoginSystem
-
 # Secure Login System
 
 A secure login web application built using Flask and SQLite.
